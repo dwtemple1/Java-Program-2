@@ -1,0 +1,21 @@
+Lab Assignment 7 README
+===============================
+
+Desc:
+Dictionary Class extends the
+interface DictionaryInterface
+and creates a dictionary 
+within a Binary Search Tree.
+
+Author:
+Dylan Temple #1609700 CMPS-12B
+
+Contents:
+README
+Dictionary.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryInterface.java
+DictionaryClient.java
+Makefile
+
